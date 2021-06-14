@@ -6,7 +6,7 @@
 package com.todolist.dao;
 
 import com.todolist.model.Usuario;
-import como.todolist.database.ConnectionDB;
+import com.todolist.database.ConnectionDB;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;

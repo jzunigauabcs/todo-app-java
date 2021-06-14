@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package como.todolist.database;
+package com.todolist.database;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
