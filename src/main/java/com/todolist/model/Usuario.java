@@ -17,7 +17,7 @@ public class Usuario {
     private String email;
     private String password;
     
-    public static String TABLE = "usuarios";
+    public final static String TABLE = "usuarios";
 
     public Usuario() {
     }

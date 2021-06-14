@@ -1,2 +1,12 @@
+/home/jzuniga/NetBeansProjects/TodoList/src/main/java/com/todolist/dao/TareaDAO.java
+/home/jzuniga/NetBeansProjects/TodoList/src/main/java/com/todolist/view/TodoListView.java
+/home/jzuniga/NetBeansProjects/TodoList/src/main/java/com/todolist/dao/UsuarioDAO.java
+/home/jzuniga/NetBeansProjects/TodoList/src/main/java/com/todolist/controller/TodoListController.java
+/home/jzuniga/NetBeansProjects/TodoList/src/main/java/com/todolist/view/RegistroView.java
+/home/jzuniga/NetBeansProjects/TodoList/src/main/java/com/todolist/model/Tarea.java
 /home/jzuniga/NetBeansProjects/TodoList/src/main/java/com/todolist/TodoList.java
+/home/jzuniga/NetBeansProjects/TodoList/src/main/java/como/todolist/database/ConnectionDB.java
+/home/jzuniga/NetBeansProjects/TodoList/src/main/java/com/todolist/controller/LoginController.java
 /home/jzuniga/NetBeansProjects/TodoList/src/main/java/com/todolist/view/LoginView.java
+/home/jzuniga/NetBeansProjects/TodoList/src/main/java/com/todolist/model/Usuario.java
+/home/jzuniga/NetBeansProjects/TodoList/src/main/java/com/todolist/controller/RegistroController.java

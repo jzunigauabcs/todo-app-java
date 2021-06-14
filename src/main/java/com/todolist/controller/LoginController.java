@@ -43,7 +43,9 @@ public class LoginController {
         if(usuario == null) {
             JOptionPane.showMessageDialog(loginV, "Usuario o contraseña incorrecto", "Error", JOptionPane.WARNING_MESSAGE);
         } else {
-            JOptionPane.showMessageDialog(loginV, "Bienvenido " + usuario.getNombre(), "Success", JOptionPane.INFORMATION_MESSAGE);
+            TodoListController todoListController = new TodoListController();
+            todoListController.init(usuario);
+            this.loginV.dispose();
         }
     }
     
